@@ -29,7 +29,7 @@ These are the base themes used in [HyDE](https://github.com/prasanthrangan/hyprd
 
 ```shell
 # themepatcher.sh "<Theme Name>" "<git branch url>"
-./themepatcher.sh "Catppuccin Mocha" "https://github.com/jvssdev/hyde-themes/tree/Catppuccin-Mocha"
+./themepatcher.sh "Catppuccin Mocha" "https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Mocha"
 ```
 <br>
 
