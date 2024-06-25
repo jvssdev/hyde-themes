@@ -1,10 +1,10 @@
 ###### *<div align = right><sub>// design by t2</sub></div>*
 <div align = center>
-<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png">
+<img src="https://raw.githubusercontent.com/jvssdev/hyprdots/main/Source/assets/hyde_banner.png">
 <br><br></div>
 
 > [!IMPORTANT]
-> These are not standalone themes, needs [HyDE](https://github.com/prasanthrangan/hyprdots) installed...
+> These are not standalone themes, needs [HyDE](https://github.com/jvssdev/hyprdots) installed...
 
 <br>
 
